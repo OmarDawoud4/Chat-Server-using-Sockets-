@@ -1,6 +1,6 @@
 # Chat Server  using Sockets in C
 
-simple chat server and client application using the `poll` system call (Posix Api)for handling multiple input sources asynchronously (stdin and socket). It is implemented in C using sockets.
+simple chat server and client application using the `poll` system call (Posix API)for handling multiple input sources asynchronously (stdin and socket). It is implemented in C using sockets.
 
 ## Files
 
